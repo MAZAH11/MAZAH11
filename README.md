@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Muaaz Ahmed! A Software Engineering Co-op Student at Concordia Univesity!
-- 🌱 I’m currently learning React and how to deploy AWS projects
+- 🌱 I’m currently learning React and how to interact with DataBases using AWS 
 - 📫 You can reach me at: muaazahmed1127@gmail.com
 - 👯 Looking to collaborate!
